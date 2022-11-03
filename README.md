@@ -9,8 +9,8 @@ I used decision tree to determine whether the person has diabetes or not. The mo
 * Packages used: caTools, FSelector, party
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/59441158/199807465-58f23dbe-7959-4b93-884f-535017cc1589.png">
 
-
-
+#### Results 
+The model trained was 72% accurate. The accuracy was measured by a function that calculates the correct predictions from all test instances from the confusion matrix. 
 
 
 
