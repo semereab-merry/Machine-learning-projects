@@ -9,7 +9,8 @@ I used decision tree to determine whether the person has diabetes or not. The mo
 * Language: R
 * Packages used: caTools, FSelector, party
 * Category: Classification
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/59441158/215346128-f3a240b1-928c-4522-9fa3-7f7afe184056.png">
+ <div align=”center”>  <img width="500" alt="image" src="https://user-images.githubusercontent.com/59441158/215346128-f3a240b1-928c-4522-9fa3-7f7afe184056.png"> </div>
+*Plot of the model built.*
 
 #### Results 
 The model trained was almost 80% accurate. The accuracy was measured by a function that calculates the correct predictions from all test instances from the confusion matrix.
@@ -20,7 +21,8 @@ I used random forest to determine whether the person has a high risk of cardiova
 * Language: R
 * Packages used: caTools, randomForest
 * Category: Classification
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/59441158/215346169-e063bddb-f78c-4e87-b3cb-7e9b0f97521d.png">
+ <div align=”center”>  <img width="500" alt="image" src="https://user-images.githubusercontent.com/59441158/215346169-e063bddb-f78c-4e87-b3cb-7e9b0f97521d.png"> </div>
+*Plot of the model built.*
 
 #### Results 
 The model trained was 78% accurate. The accuracy was measured by a function that calculates the correct predictions from all test instances from the confusion matrix.
