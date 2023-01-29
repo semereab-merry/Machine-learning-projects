@@ -1,5 +1,6 @@
-# Data Science Portofolio
-Works of Merry Zeray Semereab. 
+Hello, I am Merry Semereab, a senior student at Zayed University. I have honed my skills in data science, data visualization and machine learning through hands-on projects in class and assignments.
+
+In my portfolio, you'll find a selection of my most significant projects and I am proud of the impact these projects have had and the lessons I learned along the way.
 Each sector takes to kaggle page where you can find the codes along with explanations and analysis.
 
 ## <a href="https://www.kaggle.com/code/merryzeray/decision-tree-technique-using-the-diabetes-dataset" target="_blank"> Decision Tree Technique using the Diabetes dataset </a>
