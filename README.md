@@ -6,12 +6,25 @@ Each sector takes to kaggle page where you can find the codes along with explana
 ## <a href="https://www.kaggle.com/code/merryzeray/decision-tree-technique-using-the-diabetes-dataset" target="_blank"> Decision Tree Technique using the Diabetes dataset </a>
 I used decision tree to determine whether the person has diabetes or not. The model is useful for doctors to make a prediction and recommend the user on the best option for testing. 
 #### Code and Resources Used
-* Lnaguage: R
+* Language: R
 * Packages used: caTools, FSelector, party
+* Category: Classification
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/59441158/199807465-58f23dbe-7959-4b93-884f-535017cc1589.png">
 
 #### Results 
-The model trained was 72% accurate. The accuracy was measured by a function that calculates the correct predictions from all test instances from the confusion matrix. 
+The model trained was 78% accurate. The accuracy was measured by a function that calculates the correct predictions from all test instances from the confusion matrix.
+
+## <a href="https://www.kaggle.com/code/merryzeray/random-forest-technique-using-the-heart-disease" target="_blank"> Random Forest Technique using the Heart Disease dataset </a>
+I used random forest to determine whether the person has a high risk of cardiovascular disease or not. The model is useful for doctors to make a prediction and recommend the user on the best option for testing.
+#### Code and Resources Used
+* Language: R
+* Packages used: caTools, randomForest
+* Category: Classification
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59441158/199807465-58f23dbe-7959-4b93-884f-535017cc1589.png">
+
+#### Results 
+The model trained was 78% accurate. The accuracy was measured by a function that calculates the correct predictions from all test instances from the confusion matrix.
+
 
 
 
