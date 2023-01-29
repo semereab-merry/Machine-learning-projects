@@ -14,7 +14,8 @@ I used decision tree to determine whether the person has diabetes or not. The mo
 
 ## <a href="https://www.kaggle.com/code/merryzeray/random-forest-technique-using-the-heart-disease" target="_blank"> Random Forest Technique using the Heart Disease dataset </a>
 I used random forest to determine whether the person has a high risk of cardiovascular disease or not. The model is useful for doctors to make a prediction and recommend the user on the best option for testing.
-| Code and Resources Used  | Plot of the model built|Results|
+
+| Code and Resources Used  | Plot of the model built| Results|
 | ----------- | ----------- |----------- |
 | **Language:** R <br> <br> **Packages used:** caTools, FSelector, party <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/215346169-e063bddb-f78c-4e87-b3cb-7e9b0f97521d.png"> | The model trained was 78% accurate. <br> The accuracy was calculated from the confusion matrix.|
 
