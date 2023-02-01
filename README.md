@@ -9,7 +9,7 @@ I used linear regression to determine the temperature of a day given. The model 
 
 | Code and Resources Used  | Plot of errors of the model | Results|
 | ----------- | ----------- | ----------- |
-| **Language:** R <br> <br> **Packages used:** Amelia, caTools, corrplot, Metrics <br> <br> **Category:** Regression| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/215362364-9e0716a9-465a-42a3-9ae5-760280b75d8e.png"> | The model trained has an error of 5.4.  <br> RMSE  (Root Mean Squared Error) error was used for this model.|
+| **Language:** R <br> <br> **Packages used:** Amelia, caTools, corrplot, Metrics <br> <br> **Category:** Regression| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216059847-1a3d330f-c1c9-4136-a550-8cc6f02e5281.png"> | The model trained has an error of 5.6.  <br> RMSE  (Root Mean Squared Error) error was used for this model.|
 
 
 ## <a href="https://www.kaggle.com/code/merryzeray/decision-tree-technique-using-the-diabetes-dataset" target="_blank"> Decision Tree Technique using the Diabetes dataset </a>
@@ -18,7 +18,7 @@ I used decision tree to determine whether the person has diabetes or not. The mo
 
 | Code and Resources Used  | Plot of the model | Results|
 | ----------- | ----------- | ----------- |
-| **Language:** R <br> <br> **Packages used:** caTools, FSelector, party <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/215346128-f3a240b1-928c-4522-9fa3-7f7afe184056.png"> | The model trained was almost 80% accurate.  <br> The accuracy was calculated from the confusion matrix.|
+| **Language:** R <br> <br> **Packages used:** caTools, FSelector, party <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216063333-2db3e172-9335-4735-9c0f-6d0b9e5c31fc.png"> | The model trained was almost 78.5% accurate.  <br> The accuracy was calculated from the confusion matrix.|
 
 
 ## <a href="https://www.kaggle.com/code/merryzeray/random-forest-technique-using-the-heart-disease" target="_blank"> Random Forest Technique using the Heart Disease dataset </a>
@@ -26,7 +26,7 @@ I used random forest to determine whether the person has a high risk of cardiova
 
 | Code and Resources Used  | Plot of the model | Results|
 | ----------- | ----------- |----------- |
-| **Language:** R <br> <br> **Packages used:** caTools, FSelector, randomForest <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/215346169-e063bddb-f78c-4e87-b3cb-7e9b0f97521d.png"> | The model trained was 78% accurate. <br> The accuracy was calculated from the confusion matrix.|
+| **Language:** R <br> <br> **Packages used:** caTools, FSelector, randomForest <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216061911-6114ed64-16b2-4654-9f66-7b78a58361ce.png"> | The model trained was 78% accurate. <br> The accuracy was calculated from the confusion matrix.|
 
 
 
