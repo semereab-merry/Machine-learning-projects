@@ -30,3 +30,10 @@ I used random forest to determine whether the person has a high risk of cardiova
 
 
 
+## <a href="https://www.kaggle.com/code/merryzeray/association-rule-happiness-dataset" target="_blank"> Association Rule Technique using the Happiness dataset </a>
+I used an apriori model predict find the assosciation among services in a place to predict the likelyhood of considered a place happy. The model is useful for residents to make a prediction for better housing environment.
+
+| Code and Resources Used  | Plot of the model | Results|
+| ----------- | ----------- |----------- |
+| **Language:** R <br> <br> **Packages used:** arules, arulesViz <br> <br> **Category:** Assosciation| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216113690-1d52c4d7-8093-4902-8439-a7dd4c75e515.png"> | I built 2 models with a support of 0.05 and 0.04 and a confidence level of 0.85 and 0.9 respectively. <br> There are 10 and 19 rules formed for each model.|
+
