@@ -35,5 +35,5 @@ I used an apriori model predict find the assosciation among services in a place 
 
 | Code and Resources Used  | Plot of the model | Results|
 | ----------- | ----------- |----------- |
-| **Language:** R <br> <br> **Packages used:** arules, arulesViz <br> <br> **Category:** Assosciation| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216113690-1d52c4d7-8093-4902-8439-a7dd4c75e515.png"> | I built 2 models with a support of 0.05 and 0.04 and a confidence level of 0.85 and 0.9 respectively. <br> There are 10 and 19 rules formed for each model.|
+| **Language:** R <br> <br> **Packages used:** arules, arulesViz <br> <br> **Category:** Assosciation| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216113690-1d52c4d7-8093-4902-8439-a7dd4c75e515.png"> | I built 2 models with a support of 0.05 and 0.04 and a confidence level of 0.85 and 0.9 respectively.|
 
