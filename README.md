@@ -37,3 +37,10 @@ I used an apriori model predict find the assosciation among services in a place 
 | ----------- | ----------- |----------- |
 | **Language:** R <br> <br> **Packages used:** arules, arulesViz <br> <br> **Category:** Assosciation| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216113690-1d52c4d7-8093-4902-8439-a7dd4c75e515.png"> | I built 2 models with a support of 0.05 and 0.04 and <br> a confidence level of 0.85 and 0.9 respectively.|
 
+
+## <a href="https://www.kaggle.com/code/merryzeray/text-analysis-donald-speech-in-dallas" target="_blank"> Text Mining and Analysis using the Donald Trump Speech in Dallas </a>
+I used text analysis to create a word cloud that illustrates the main topics he mentioned in his speech.
+
+| Code and Resources Used  | Plot of the model | Results|
+| ----------- | ----------- |----------- |
+| **Language:** R <br> <br> **Packages used:** dplyr, tidytext, stringr, wordcloud, knitr, DT, tidyr <br> <br> **Category:** Text mining and analysis| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216144920-87c56661-cfd4-412a-a7c3-53b0f47b02a7.png"> | I created a word cloud and datatable for the speech.|
