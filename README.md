@@ -41,6 +41,6 @@ I used an apriori model predict find the assosciation among services in a place 
 ## <a href="https://www.kaggle.com/code/merryzeray/text-analysis-donald-speech-in-dallas" target="_blank"> Text Mining and Analysis using the Donald Trump Speech in Dallas </a>
 I used text analysis to create a word cloud that illustrates the main topics he mentioned in his speech.
 
-| Code and Resources Used  | Plot of the model | Results|
+| Code and Resources Used  | Word cloud | Results|
 | ----------- | ----------- |----------- |
 | **Language:** R <br> <br> **Packages used:** dplyr, tidytext, stringr, wordcloud, knitr, DT, tidyr <br> <br> **Category:** Text mining and analysis| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216144920-87c56661-cfd4-412a-a7c3-53b0f47b02a7.png"> | I created a word cloud and datatable for the speech.|
