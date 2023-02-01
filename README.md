@@ -44,3 +44,10 @@ I used text analysis to create a word cloud that illustrates the main topics he 
 | Code and Resources Used  | Word cloud | Results|
 | ----------- | ----------- |----------- |
 | **Language:** R <br> <br> **Packages used:** dplyr, tidytext, stringr, wordcloud, knitr, DT, tidyr <br> <br> **Category:** Text mining and analysis| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216144920-87c56661-cfd4-412a-a7c3-53b0f47b02a7.png"> | I created a word cloud and datatable for the speech.|
+
+
+---
+### Contact details
+Email: <a href="mailto:merry0zeray@gmail.com">merry0zeray@gmail.com</a>  
+<br> 
+Github: <a href="https://github.com/semereab-merry">https://github.com/semereab-merry</a>
