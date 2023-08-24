@@ -50,7 +50,7 @@ I used logistic regression to determine if the diagnosis is M or B (malignant or
 
 | Code and Resources Used  | Plot of errors of the model | Results|
 | ----------- | ----------- |----------- |
-| **Language:** Python <br> <br> **Packages used:** numpy, pandas, matplotlib, seaborn, and sklearn <br> <br> **Category:** Logistic regression| <img width="1500"  alt="image" src="https://github.com/semereab-merry/Data-Science-Portofolio/assets/59441158/92985eec-09d1-4a73-bd44-9ccc24c31e11"> | The acuracy of the model is 96%, estimated from ROC curve.|
+| **Language:** Python <br> <br> **Packages used:** numpy, pandas, matplotlib, seaborn, and sklearn <br> <br> **Category:** Logistic regression| <img width="1500"  alt="image" src="https://www.kaggle.com/code/merryzeray/logistic-reg-breast-cancer-detection"> | The acuracy of the model is 96%, estimated from ROC curve.|
 
 
 ---
