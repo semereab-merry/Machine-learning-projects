@@ -45,12 +45,12 @@ I used text analysis to create a word cloud that illustrates the main topics he 
 | ----------- | ----------- |----------- |
 | **Language:** R <br> <br> **Packages used:** dplyr, tidytext, stringr, wordcloud, knitr, DT, tidyr <br> <br> **Category:** Text mining and analysis| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216144920-87c56661-cfd4-412a-a7c3-53b0f47b02a7.png"> | I created a word cloud and datatable for the speech.|
 
-## <a href="https://www.kaggle.com/code/merryzeray/linear-reg-breast-cancer-detection" target="_blank"> Breast Cancer Detection using Logistic Regression </a>
+## <a href="https://www.kaggle.com/code/merryzeray/logistic-reg-breast-cancer-detection" target="_blank"> Breast Cancer Detection using Logistic Regression </a>
 I used logistic regression to determine if the diagnosis is M or B (malignant or benign) by analysing other physical attributions of the person.
 
 | Code and Resources Used  | Plot of errors of the model | Results|
 | ----------- | ----------- |----------- |
-| **Language:** Python <br> <br> **Packages used:** numpy, pandas, matplotlib, seaborn, and sklearn <br> <br> **Category:** Logistic regression| <img width="1500"  alt="image" src="https://www.kaggle.com/code/merryzeray/logistic-reg-breast-cancer-detection"> | The acuracy of the model is 96%, estimated from ROC curve.|
+| **Language:** Python <br> <br> **Packages used:** numpy, pandas, matplotlib, seaborn, and sklearn <br> <br> **Category:** Logistic regression| <img width="1500"  alt="image" src="https://github.com/semereab-merry/Machine-learning-projects/assets/59441158/cdcef463-88b9-456c-8836-f31fd9b6a172"> | The acuracy of the model is 96%, estimated from ROC curve.|
 
 
 ---
