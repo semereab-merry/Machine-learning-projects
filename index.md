@@ -11,7 +11,7 @@ I used logistic regression to determine if the diagnosis is M or B (malignant or
 
 | Code and Resources Used  | Plot of errors of the model | Results|
 | :----------- | :----------- |:----------- |
-| **Language:** Python <br> <br> **Packages used:** numpy, pandas, matplotlib, seaborn, and sklearn <br> <br> **Category:** Logistic regression| <img width="1500"  alt="image" src="https://github.com/semereab-merry/Machine-learning-projects/assets/59441158/1310f751-66fa-4eda-ad64-fb6b2a1c1cf9"> | The acuracy of the model is 96%, estimated from ROC curve.|
+| **Language:** Python <br> <br> **Packages used:** numpy, pandas, matplotlib, seaborn, and sklearn <br> <br> **Category:** Logistic regression| <img width="1500"  alt="image" src="https://github.com/semereab-merry/Machine-learning-projects/assets/59441158/1310f751-66fa-4eda-ad64-fb6b2a1c1cf9"> | The acuracy of the model is `96%`, estimated from ROC curve.|
 
 
 <br/>
@@ -31,7 +31,7 @@ I used an apriori model predict find the assosciation among services in a place 
 
 | Code and Resources Used  | Plot of the model | Results|
 | ----------- | ----------- |----------- |
-| **Language:** R <br> <br> **Packages used:** arules, arulesViz <br> <br> **Category:** Assosciation| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216113690-1d52c4d7-8093-4902-8439-a7dd4c75e515.png"> | I built 2 models with a support of 0.05 and 0.04 and <br> a confidence level of 0.85 and 0.9 respectively.|
+| **Language:** R <br> <br> **Packages used:** arules, arulesViz <br> <br> **Category:** Assosciation| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216113690-1d52c4d7-8093-4902-8439-a7dd4c75e515.png"> | I built 2 models with a support of 0.05 and 0.04 and <br> a confidence level of `0.85` and `0.9` respectively.|
 
 
 <br/>
@@ -41,7 +41,7 @@ I used random forest to determine whether the person has a high risk of cardiova
 
 | Code and Resources Used  | Plot of the model | Results|
 | ----------- | ----------- |----------- |
-| **Language:** R <br> <br> **Packages used:** caTools, FSelector, randomForest <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://github.com/semereab-merry/Machine-learning-projects/assets/59441158/fd93f054-53f6-46fe-9864-d23d1d520b8c">| The model trained was 78% accurate. <br> The accuracy was calculated from the confusion matrix.|
+| **Language:** R <br> <br> **Packages used:** caTools, FSelector, randomForest <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://github.com/semereab-merry/Machine-learning-projects/assets/59441158/fd93f054-53f6-46fe-9864-d23d1d520b8c">| The model trained was `78%` accurate. <br> The accuracy was calculated from the confusion matrix.|
 
 
 <br/>
@@ -52,7 +52,7 @@ I used decision tree to determine whether the person has diabetes or not. The mo
 
 | Code and Resources Used  | Plot of the model | Results|
 | ----------- | ----------- | ----------- |
-| **Language:** R <br> <br> **Packages used:** caTools, FSelector, party <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216063333-2db3e172-9335-4735-9c0f-6d0b9e5c31fc.png"> | The model trained was almost 78.5% accurate.  <br> The accuracy was calculated from the confusion matrix.|
+| **Language:** R <br> <br> **Packages used:** caTools, FSelector, party <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216063333-2db3e172-9335-4735-9c0f-6d0b9e5c31fc.png"> | The model trained was almost `78.5%` accurate.  <br> The accuracy was calculated from the confusion matrix.|
 
 
 <br/>
@@ -63,5 +63,5 @@ I used linear regression to determine the temperature of a day given. The model 
 
 | Code and Resources Used  | Plot of errors of the model | Results|
 | ----------- | ----------- | ----------- |
-| **Language:** R <br> <br> **Packages used:** Amelia, caTools, corrplot, Metrics <br> <br> **Category:** Regression| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216059847-1a3d330f-c1c9-4136-a550-8cc6f02e5281.png"> | The model trained has an error of 5.6.  <br> RMSE  (Root Mean Squared Error) error was used for this model.|
+| **Language:** R <br> <br> **Packages used:** Amelia, caTools, corrplot, Metrics <br> <br> **Category:** Regression| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216059847-1a3d330f-c1c9-4136-a550-8cc6f02e5281.png"> | The model trained has an error of `5.6`.  <br> RMSE  (Root Mean Squared Error) error was used for this model.|
 
