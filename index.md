@@ -2,11 +2,11 @@
 layout: default
 ---
 
-h1>Each sector of this page takes to Kaggle notebook where you can find the codes along with explanations and analysis.
-</h1>
+> Each sector of this page takes to Kaggle notebook where you can find the codes along with explanations and analysis.
+
     
 <!--       <a href="Machine-learning-projects" class="btn">View on GitHub</a> -->
-<h2> <a href="https://www.kaggle.com/code/merryzeray/logistic-reg-breast-cancer-detection" target="_blank"> Breast Cancer Detection using Logistic Regression </a> </h2>
+<h1> <a href="https://www.kaggle.com/code/merryzeray/logistic-reg-breast-cancer-detection" target="_blank"> Breast Cancer Detection using Logistic Regression </a> </h1>
 I used logistic regression to determine if the diagnosis is M or B (malignant or benign) by analysing other physical attributions of the person.
 
 | Code and Resources Used  | Plot of errors of the model | Results|
@@ -16,7 +16,7 @@ I used logistic regression to determine if the diagnosis is M or B (malignant or
 
 <br/>
 
-<h2> <a href="https://www.kaggle.com/code/merryzeray/text-analysis-donald-speech-in-dallas" target="_blank"> Analysis of Donald Trump Speech in Dallas using Text Mining and Analysis</a>  </h2>
+<h1> <a href="https://www.kaggle.com/code/merryzeray/text-analysis-donald-speech-in-dallas" target="_blank"> Analysis of Donald Trump Speech in Dallas using Text Mining and Analysis</a>  </h1>
 I used text analysis to create a word cloud that illustrates the main topics he mentioned in his speech.
 
 | Code and Resources Used  | Word cloud | Results|
@@ -26,7 +26,7 @@ I used text analysis to create a word cloud that illustrates the main topics he 
 
 <br/>
 
-<h2> <a href="https://www.kaggle.com/code/merryzeray/association-rule-happiness-dataset" target="_blank"> Happiness distribution analysis using Association Rule Technique </a> </h2>
+<h1> <a href="https://www.kaggle.com/code/merryzeray/association-rule-happiness-dataset" target="_blank"> Happiness distribution analysis using Association Rule Technique </a> </h1>
 I used an apriori model predict find the assosciation among services in a place to predict the likelyhood of considered a place happy. The model is useful for residents to make a prediction for better housing environment.
 
 | Code and Resources Used  | Plot of the model | Results|
@@ -36,17 +36,17 @@ I used an apriori model predict find the assosciation among services in a place 
 
 <br/>
 
-<h2> <a href="https://www.kaggle.com/code/merryzeray/random-forest-technique-using-the-heart-disease" target="_blank"> Heart Disease detection using Random Forest Technique </a> </h2>
+<h1> <a href="https://www.kaggle.com/code/merryzeray/random-forest-technique-using-the-heart-disease" target="_blank"> Heart Disease detection using Random Forest Technique </a> </h1>
 I used random forest to determine whether the person has a high risk of cardiovascular disease or not. The model is useful for doctors to make a prediction and recommend the user on the best option for testing.
 
 | Code and Resources Used  | Plot of the model | Results|
 | ----------- | ----------- |----------- |
-| **Language:** R <br> <br> **Packages used:** caTools, FSelector, randomForest <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216061911-6114ed64-16b2-4654-9f66-7b78a58361ce.png"> | The model trained was 78% accurate. <br> The accuracy was calculated from the confusion matrix.|
+| **Language:** R <br> <br> **Packages used:** caTools, FSelector, randomForest <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/116061911-6114ed64-16b1-4654-9f66-7b78a58361ce.png"> | The model trained was 78% accurate. <br> The accuracy was calculated from the confusion matrix.|
 
 
 <br/>
 
-<h2> <a href="https://www.kaggle.com/code/merryzeray/decision-tree-technique-using-the-diabetes-dataset" target="_blank"> Diabetes Detection using Decision Tree Technique </a>  </h2>
+<h1> <a href="https://www.kaggle.com/code/merryzeray/decision-tree-technique-using-the-diabetes-dataset" target="_blank"> Diabetes Detection using Decision Tree Technique </a>  </h1>
 I used decision tree to determine whether the person has diabetes or not. The model is useful for doctors to make a prediction and recommend the user on the best option for testing. 
 
 
@@ -57,7 +57,7 @@ I used decision tree to determine whether the person has diabetes or not. The mo
 
 <br/>
 
-<h2> <a href="https://www.kaggle.com/code/merryzeray/linearr-air-quality-dataset" target="_blank"> Weather Forecast and Air Quality using Linear Regression Technique </a> </h2>
+<h1> <a href="https://www.kaggle.com/code/merryzeray/linearr-air-quality-dataset" target="_blank"> Weather Forecast and Air Quality using Linear Regression Technique </a> </h1>
 I used linear regression to determine the temperature of a day given. The model is useful for predictions assist in weather forecast.
 
 
