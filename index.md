@@ -6,11 +6,11 @@ layout: default
 
     
 ## Breast Cancer Detection using Logistic Regression
-I used logistic regression to determine if the diagnosis is M or B (malignant or benign) by analysing other physical attributions of the person. <a href="https://www.kaggle.com/code/merryzeray/logistic-reg-breast-cancer-detection" target="_blank">Visit Kaggle..</a>
+I used logistic regression to determine if the diagnosis is M or B (malignant or benign) by analysing other physical attributions of the person. <a href="https://www.kaggle.com/code/merryzeray/logistic-reg-breast-cancer-detection" target="_blank">Visit Kaggle.</a>
 
 
 | Code and Resources Used  | Plot of errors of the model | Results|
-| ----------- | ----------- |----------- |
+| :----------- | :----------- |:----------- |
 | **Language:** Python <br> <br> **Packages used:** numpy, pandas, matplotlib, seaborn, and sklearn <br> <br> **Category:** Logistic regression| <img width="1500"  alt="image" src="https://github.com/semereab-merry/Machine-learning-projects/assets/59441158/1310f751-66fa-4eda-ad64-fb6b2a1c1cf9"> | The acuracy of the model is 96%, estimated from ROC curve.|
 
 
