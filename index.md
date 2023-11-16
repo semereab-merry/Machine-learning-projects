@@ -16,8 +16,8 @@ I used logistic regression to determine if the diagnosis is M or B (malignant or
 
 <br/>
 
-## <a href="https://www.kaggle.com/code/merryzeray/text-analysis-donald-speech-in-dallas" target="_blank"> Analysis of Donald Trump Speech in Dallas using Text Mining and Analysis</a> 
-I used text analysis to create a word cloud that illustrates the main topics he mentioned in his speech.
+## Analysis of Donald Trump Speech in Dallas using Text Mining and Analysis
+I used text analysis to create a word cloud that illustrates the main topics he mentioned in his speech. <a href="https://www.kaggle.com/code/merryzeray/text-analysis-donald-speech-in-dallas" target="_blank">Visit Kaggle</a> 
 
 | Code and Resources Used  | Word cloud | Results|
 | ----------- | ----------- |----------- |
@@ -26,8 +26,8 @@ I used text analysis to create a word cloud that illustrates the main topics he 
 
 <br/>
 
-## <a href="https://www.kaggle.com/code/merryzeray/association-rule-happiness-dataset" target="_blank"> Happiness distribution analysis using Association Rule Technique </a>
-I used an apriori model predict find the assosciation among services in a place to predict the likelyhood of considered a place happy. The model is useful for residents to make a prediction for better housing environment.
+## Happiness distribution analysis using Association Rule Technique
+I used an apriori model predict find the assosciation among services in a place to predict the likelyhood of considered a place happy. The model is useful for residents to make a prediction for better housing environment. <a href="https://www.kaggle.com/code/merryzeray/association-rule-happiness-dataset" target="_blank">Visit Kaggle</a>
 
 | Code and Resources Used  | Plot of the model | Results|
 | ----------- | ----------- |----------- |
@@ -36,8 +36,8 @@ I used an apriori model predict find the assosciation among services in a place 
 
 <br/>
 
-## <a href="https://www.kaggle.com/code/merryzeray/random-forest-technique-using-the-heart-disease" target="_blank"> Heart Disease detection using Random Forest Technique </a>
-I used random forest to determine whether the person has a high risk of cardiovascular disease or not. The model is useful for doctors to make a prediction and recommend the user on the best option for testing.
+##  Heart Disease detection using Random Forest Technique
+I used random forest to determine whether the person has a high risk of cardiovascular disease or not. The model is useful for doctors to make a prediction and recommend the user on the best option for testing. <a href="https://www.kaggle.com/code/merryzeray/random-forest-technique-using-the-heart-disease" target="_blank">Visit Kaggle</a>
 
 | Code and Resources Used  | Plot of the model | Results|
 | ----------- | ----------- |----------- |
@@ -46,8 +46,8 @@ I used random forest to determine whether the person has a high risk of cardiova
 
 <br/>
 
-## <a href="https://www.kaggle.com/code/merryzeray/decision-tree-technique-using-the-diabetes-dataset" target="_blank"> Diabetes Detection using Decision Tree Technique </a> 
-I used decision tree to determine whether the person has diabetes or not. The model is useful for doctors to make a prediction and recommend the user on the best option for testing. 
+## Diabetes Detection using Decision Tree Technique
+I used decision tree to determine whether the person has diabetes or not. The model is useful for doctors to make a prediction and recommend the user on the best option for testing. <a href="https://www.kaggle.com/code/merryzeray/decision-tree-technique-using-the-diabetes-dataset" target="_blank">Visit Kaggle</a> 
 
 
 | Code and Resources Used  | Plot of the model | Results|
@@ -57,8 +57,8 @@ I used decision tree to determine whether the person has diabetes or not. The mo
 
 <br/>
 
-## <a href="https://www.kaggle.com/code/merryzeray/linearr-air-quality-dataset" target="_blank"> Weather Forecast and Air Quality using Linear Regression Technique </a>
-I used linear regression to determine the temperature of a day given. The model is useful for predictions assist in weather forecast.
+## Weather Forecast and Air Quality using Linear Regression Technique
+I used linear regression to determine the temperature of a day given. The model is useful for predictions assist in weather forecast.  <a href="https://www.kaggle.com/code/merryzeray/linearr-air-quality-dataset" target="_blank">Visit Kaggle</a>
 
 
 | Code and Resources Used  | Plot of errors of the model | Results|
