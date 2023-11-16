@@ -4,6 +4,6 @@ In my portfolio, you'll find a selection of my most significant projects and I a
 Each sector takes to kaggle page where you can find the codes along with explanations and analysis.
 
 <br/>
-
+<p><a href="https://semereab-merry.github.io/Machine-learning-projects/">Visit the website</a></p>
 
 ---
