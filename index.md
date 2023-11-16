@@ -16,7 +16,7 @@ I used logistic regression to determine if the diagnosis is M or B (malignant or
 
 <br/>
 
-## Analysis of Donald Trump Speech in Dallas using Text Mining and Analysis
+## Analysis of Donald Trump Speech in Dallas using Text Mining and Text Analysis
 I used text analysis to create a word cloud that illustrates the main topics he mentioned in his speech. <a href="https://www.kaggle.com/code/merryzeray/text-analysis-donald-speech-in-dallas" target="_blank">Visit Kaggle</a> 
 
 | Code and Resources Used  | Word cloud | Results|
@@ -41,7 +41,7 @@ I used random forest to determine whether the person has a high risk of cardiova
 
 | Code and Resources Used  | Plot of the model | Results|
 | ----------- | ----------- |----------- |
-| **Language:** R <br> <br> **Packages used:** caTools, FSelector, randomForest <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/116061911-6114ed64-16b1-4654-9f66-7b78a58361ce.png"> | The model trained was 78% accurate. <br> The accuracy was calculated from the confusion matrix.|
+| **Language:** R <br> <br> **Packages used:** caTools, FSelector, randomForest <br> <br> **Category:** Classification| <img width="1000"  alt="image" src="https://github.com/semereab-merry/Machine-learning-projects/assets/59441158/fd93f054-53f6-46fe-9864-d23d1d520b8c">| The model trained was 78% accurate. <br> The accuracy was calculated from the confusion matrix.|
 
 
 <br/>
