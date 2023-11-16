@@ -5,8 +5,8 @@ layout: default
 > Each sector of this page takes to Kaggle notebook where you can find the codes along with explanations and analysis.
 
     
-<!--       <a href="Machine-learning-projects" class="btn">View on GitHub</a> -->
-## <a href="https://www.kaggle.com/code/merryzeray/logistic-reg-breast-cancer-detection" target="_blank"> Breast Cancer Detection using Logistic Regression </a>
+## Breast Cancer Detection using Logistic Regression
+<a href="https://www.kaggle.com/code/merryzeray/logistic-reg-breast-cancer-detection" target="_blank" class="btn"> Visit Kaggle</a>
 I used logistic regression to determine if the diagnosis is M or B (malignant or benign) by analysing other physical attributions of the person.
 
 | Code and Resources Used  | Plot of errors of the model | Results|
