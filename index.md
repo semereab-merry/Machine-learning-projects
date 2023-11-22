@@ -9,7 +9,7 @@ layout: default
 I used logistic regression to determine if the diagnosis is M or B (malignant or benign) by analysing other physical attributions of the person. <a href="https://www.kaggle.com/code/merryzeray/logistic-reg-breast-cancer-detection" target="_blank">Visit Kaggle.</a>
 
 
-| Code and Resources Used  | Plot of errors of the model | Results|
+| Code and Resources Used  | Heat Map | Results|
 | :----------- | :----------- |:----------- |
 | **Language:** Python <br> <br> **Packages used:** numpy, pandas, matplotlib, seaborn, and sklearn <br> <br> **Category:** Logistic regression| <img width="1500"  alt="image" src="https://github.com/semereab-merry/Machine-learning-projects/assets/59441158/1310f751-66fa-4eda-ad64-fb6b2a1c1cf9"> | The acuracy of the model is `96%`, estimated from ROC curve.|
 
@@ -19,7 +19,7 @@ I used logistic regression to determine if the diagnosis is M or B (malignant or
 ## Analysis of Donald Trump Speech in Dallas using Text Mining and Text Analysis
 I used text analysis to create a word cloud that illustrates the main topics he mentioned in his speech. <a href="https://www.kaggle.com/code/merryzeray/text-analysis-donald-speech-in-dallas" target="_blank">Visit Kaggle.</a> 
 
-| Code and Resources Used  | Word cloud | Results|
+| Code and Resources Used  | Word Cloud | Results|
 | ----------- | ----------- |----------- |
 | **Language:** R <br> <br> **Packages used:** dplyr, tidytext, stringr, wordcloud, knitr, DT, tidyr <br> <br> **Category:** Text mining and analysis| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216144920-87c56661-cfd4-412a-a7c3-53b0f47b02a7.png"> | I created a word cloud and datatable for the speech.|
 
@@ -29,7 +29,7 @@ I used text analysis to create a word cloud that illustrates the main topics he 
 ## Happiness distribution analysis using Association Rule Technique
 I used an apriori model predict find the assosciation among services in a place to predict the likelyhood of considered a place happy. The model is useful for residents to make a prediction for better housing environment. <a href="https://www.kaggle.com/code/merryzeray/association-rule-happiness-dataset" target="_blank">Visit Kaggle.</a>
 
-| Code and Resources Used  | Plot of the model | Results|
+| Code and Resources Used  | Plot of the Rules | Results|
 | ----------- | ----------- |----------- |
 | **Language:** R <br> <br> **Packages used:** arules, arulesViz <br> <br> **Category:** Assosciation| <img width="1000"  alt="image" src="https://user-images.githubusercontent.com/59441158/216113690-1d52c4d7-8093-4902-8439-a7dd4c75e515.png"> | I built 2 models with a support of 0.05 and 0.04 and <br> a confidence level of `0.85` and `0.9` respectively.|
 
